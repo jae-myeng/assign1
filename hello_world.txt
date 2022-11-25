@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Collaborator and Contribution in Github
+=======
+Collaborator and Contribution in GitHub
+>>>>>>> e9eab80c5ca647a1849f7bee2462d14d405ad392
